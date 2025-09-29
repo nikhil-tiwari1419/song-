@@ -1,104 +1,143 @@
 {
-    "happy": [
+    "love": [
         {
+            "id": "1",
             "title": "Aa jao meri tammana",
-            "url": "/src/songs file/Aa Jao Meri Tamanna.mp3"
+            "url": "/songs file/Aa Jao Meri Tamanna.mp3"
         },
         {
+            "id": "2",
             "title": "Kashish",
-            "url": "/src/songs file/Kashish - Omkar Singh (pagalall.com).mp3"
+            "url": "/songs file/Kashish - Omkar Singh (pagalall.com).mp3"
         },
         {
+            "id": "3",
             "title": "Mai koi aisa geet gaoon",
-            "url": "about-her/src/songs file/Main Koi Aisa Geet Gaoon.mp3"
+            "url": "/songs file/Main Koi Aisa Geet Gaoon.mp3"
         },
         {
+            "id": "4",
             "title": "savera",
-            "url": "about-her/src/songs file/savera.mp3"
+            "url": "/songs file/savera.mp3"
         },
         {
+            "id": "5",
             "title": "tera hone laga hu",
-            "url": "about-her/src/songs file/Tera Hone Laga Hoon.mp3"
+            "url": "/songs file/Tera Hone Laga Hoon.mp3"
         },
         {
-            "title": "happy-song 1",
-            "url": ""
+            "id": "6",
+            "title": "Saiya dil me",
+            "url": "/songs/Saiyaan Dil.mp3"
         },
         {
-            "title": "happy-song 1",
-            "url": ""
+            "id": "7",
+            "title": "Tera Fitoor",
+            "url": "/songs/Tera Fitoor.mp3"
         },
         {
-            "title": "happy-song 1",
-            "url": ""
+            "id": "7",
+            "title": "Arzoo",
+            "url": "about-her/public/songs/Aarzoo.mp3"
+        },
+        {
+            "id": "8",
+            "title": "Husn",
+            "url": "/songs/128-Husn - Anuv Jain 128 Kbps.mp3"
         }
     ],
     "sad": [
         {
+            "id": "1",
             "title": "Mai chala jauga",
-            "url": "about-her/src/songs file/Mai Chala Jaunga  Fiddlecraft .mp3"
+            "url": "/songs file/Mai Chala Jaunga  Fiddlecraft .mp3"
         },
         {
+            "id": "2",
             "title": "lamhey",
-            "url": "about-her/src/songs file/lamhey (online-audio-converter.com).mp3"
+            "url": "/songs file/lamhey (online-audio-converter.com).mp3"
         },
         {
+            "id": "3",
             "title": "Tum jo itna ",
-            "url": "about-her/src/songs file/Tum ItnaJo.mp3"
+            "url": "/songs file/Tum ItnaJo.mp3"
         },
         {
-            "title": "sad-song 1",
-            "url": ""
+            "id": "4",
+            "title": "Saanson ki Zarurat",
+            "url": "/songs/Saanson Ki Zaroorat copy.mp3"
         },
         {
+            "id": "5",
             "title": "Bewajah",
-            "url": "about-her/src/songs file/Bewajah - (Raag.Fm).mp3"
+            "url": "/songs file/Bewajah - (Raag.Fm).mp3"
         },
         {
-            "title": "sad-song 1",
-            "url": ""
+            "id": "6",
+            "title": "priyamataa",
+            "url": "/songs/priytama.mp3"
         },
         {
+            "id": "7",
             "title": "choolo",
-            "url": "about-her/src/songs file/Choo Lo.mp3"
+            "url": "/songs file/Choo Lo.mp3"
         },
         {
+            "id": "8",
             "title": "Tum thodo na ",
-            "url": "about-her/src/songs file/Tum Todo Na (Female Version).mp3"
+            "url": "/songs file/Tum Todo Na (Female Version).mp3"
+        },
+        {
+            "id": "9",
+            "title": "Tum thodo na ",
+            "url": "/songs file/Tum Todo Na (Female Version).mp3"
+        },
+        {
+            "id": "10",
+            "title": "Haa tu hai",
+            "url": "/songs/Haan Tu Hain.mp3"
         }
     ],
     "nakhre": [
         {
+            "id": "1",
             "title": "snag rahiyo",
-            "url": "about-her/src/songs file/Sang Rahiyo.mp3"
+            "url": "/songs file/Sang Rahiyo.mp3"
         },
         {
+            "id": "2",
             "title": "tum  ji itna",
-            "url": "about-her/src/songs file/Tum ItnaJo.mp3"
+            "url": "/songs file/Tum ItnaJo.mp3"
         },
         {
+            "id": "3",
             "title": "suno na suno na ",
-            "url": "about-her/src/songs file/Suno Na Suno Na - Chalte Chalte 128 Kbps.mp3"
+            "url": "/songs file/Suno Na Suno Na - Chalte Chalte 128 Kbps.mp3"
         },
         {
-            "title": "nakh-song 1",
-            "url": ""
+            "id": "4",
+            "title": "Sathiya tune kya kiya ",
+            "url": "/songs/Saathiya Tune Kya.mp3"
         },
         {
-            "title": "nakh-song 1",
-            "url": ""
+            "id": "5",
+            "title": "Tu hi meri subh hai ",
+            "url": "/songs/Tu Hi Meri Shab.mp3"
         },
         {
-            "title": "Kashish",
-            "url": "/src/songs file/Kashish - Omkar Singh (pagalall.com).mp3"
+            "id": "6",
+            "title": "Kho gaye",
+            "url": "/songs/Kho Gaye.mp3"
         },
         {
+            "id": "7",
             "title": "Aoge tum kabhi ",
-            "url": "/src/songs file/Aaoge Tum Kabhi.mp3"
+            "url": "/songs file/Aaoge Tum Kabhi.mp3"
         },
         {
+            "id": "8",
             "title": "Dil mere",
-            "url": "/src/songs file/dil besabar .mp3"
+            "url": "/songs file/dil besabar .mp3"
         }
     ]
 }
