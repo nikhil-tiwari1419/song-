@@ -82,7 +82,7 @@
         },
         {
             "id": "Song 17",
-            "title": "Main Koi Aisa Geet Gaoon By-Abhijeet Sawant ,Alka Yagnik",
+            "title": "Main Koi Aisa Geet Gaoon By-Abhijeet_Sawant ,Alka_Yagnik",
             "url": "/songs/Main Koi Aisa Geet Gaoon.mp3"
         },
         {
@@ -92,37 +92,37 @@
         },
         {
             "id": "Song 19",
-            "title": "Saathiya Tune Kya By-S.P Balasubramaniam ,K.S. Chithra",
+            "title": "Saathiya Tune Kya By: S.P_Balasubramaniam ,K.S_Chithra",
             "url": "/songs/Saathiya Tune Kya.mp3"
         },
         {
             "id": "Song 20",
-            "title": "Saiyaan Dil Main By-Vylom",
+            "title": "Saiyaan Dil Main By: Vylom",
             "url": "/songs/Saiyaan Dil.mp3"
         },
         {
             "id": "Song 21",
-            "title": "Sang Rahiyo By-Ujjwal Kashyap",
+            "title": "Sang Rahiyo By: Ujjwal Kashyap",
             "url": "/songs/Sang Rahiyo.mp3"
         },
         {
             "id": "Song 22",
-            "title": "Savera By-Iqlipse Nova",
+            "title": "Savera By-Iqlipse_Nova",
             "url": "/songs/savera.mp3"
         },
         {
             "id": "Song 23",
-            "title": "Suno Na Suno Na By-Abhijit Sawant",
+            "title": "Suno Na Suno Na By-Abhijit_Sawant",
             "url": "/songs/Suno Na Suno Na.mp3"
         },
         {
             "id": "Song 24",
-            "title": "Tera Fitoor By-Arijit Singh",
+            "title": "Tera Fitoor By-Arijit_Singh",
             "url": "/songs/Tera Fitoor.mp3"
         },
         {
             "id": "Song 25",
-            "title": "Tera Hone Laga Hoon By-Atif Aslam",
+            "title": "Tera Hone Laga Hoon By-Atif_Aslam",
             "url": "/songs/Tera Hone Laga Hoon.mp3"
         },
         {
@@ -132,35 +132,36 @@
         },
         {
             "id": "Song 27",
-            "title": "Tum ji itna By-jagjit Singh",
+            "title": "Tum ji itna By-jagjit_Singh",
             "url": "/songs/Tum ItnaJo.mp3"
         },
         {
             "id": "Song 28",
-            "title": "Tum Todo Na By-Bela Shende",
+            "title": "Tum Todo Na By-Bela_Shende",
             "url": "/songs/Tum Todo Na (Female Version).mp3"
         },
         {
             "id":"Song 29",
-            "title":"Ruaan By-Arijit Singh",
+            "title":"Ruaan By-Arijit_Singh",
             "url":"/songs/Ruaan.mp3"
         },
         {
             "id":"Song 30",
-            "title":"Rataan Lambiya By-Jubin Nautiyal",
+            "title":"Rataan Lambiya By-Jubin_Nautiyal",
             "url":"/songs/Raataan Lambiya.mp3"
         },
         {
             "id":"Song 31",
-            "title":"Aaoge jab Tum By-Ustad Sultan Khan",
+            "title":"Aaoge jab Tum By-Ustad_Sultan_Khan",
             "url":"/songs/Aaoge jab.mp3"
-        }
+        },
         {
             "id":"Song 32",
-            "title":"Rabaaata By-Arijit Singh",
+            "title":"Rabaaata By-Arijit_Singh",
             "url":"/songs/Raabta.mp3"
         }
     ]
 }
+
 
 
