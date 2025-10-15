@@ -159,9 +159,15 @@
             "id":"Song 32",
             "title":"Rabaaata By-Arijit_Singh",
             "url":"/songs/Raabta.mp3"
+        },
+        {
+            "id":"Song 33",
+            "title":"Man Chala teri Ore By-Vishal_Shekhar",
+            "url":"/songs/Man_Chala_Teri_Ore.mp3"
         }
     ]
 }
+
 
 
 
