@@ -2,22 +2,22 @@
     "songs": [
         {
             "id": "Song 1",
-            "title": "Aa jao meri tamanna By-Javed Ali",
+            "title": "Aa_jao_meri_tamanna By_Javed_Ali",
             "url": "/songs/Aa_jao_meri_tamanna.mp3"
         },
         {
             "id": "Song 2",
-            "title": "Aa Seetadevi Navvula By-Arijit Singh",
+            "title": "Aa_Seetadevi_Navvula By-Arijit_Singh",
             "url": "/songs/Aa_Seetadevi_Navvula.mp3"
         },
         {
             "id": "Song 3",
-            "title": "Aaftaab By-The local train",
+            "title": "Aaftaab_By_The_local_train",
             "url": "/songs/Aaftaab.mp3"
         },
         {
             "id": "Song 4",
-            "title": "Aaoge Tum Kabhi By-The local train",
+            "title": "Aaoge_Tum_Kabhi_By-The local train",
             "url": "/songs/Aaoge_Tum_Kabhi.mp3"
         },
         {
@@ -173,3 +173,4 @@
         
     ]
 }
+
