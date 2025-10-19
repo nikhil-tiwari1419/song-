@@ -3,174 +3,175 @@
         {
             "id": "Song 1",
             "title": "Aa jao meri tamanna By-Javed Ali",
-            "url": "public/songs/Aa_jao_meri_tamanna.mp3"
+            "url": "/songs/Aa_jao_meri_tamanna.mp3"
         },
         {
             "id": "Song 2",
             "title": "Aa Seetadevi Navvula By-Arijit Singh",
-            "url": "public/songs/Aa_Seetadevi_Navvula.mp3"
+            "url": "/songs/Aa_Seetadevi_Navvula.mp3"
         },
         {
             "id": "Song 3",
             "title": "Aaftaab By-The local train",
-            "url": "public/songs/Aaftaab.mp3"
+            "url": "/songs/Aaftaab.mp3"
         },
         {
             "id": "Song 4",
             "title": "Aaoge Tum Kabhi By-The local train",
-            "url": "public/songs/Aaoge_Jab.mp3"
+            "url": "/songs/Aaoge_Jab.mp3"
         },
         {
             "id": "Song 5",
             "title": "Aaoge Tum Kabhi By-The local train",
-            "url": "public/songs/Aaoge_Tum_Kabhi.mp3"
+            "url": "/songs/Aaoge_Tum_Kabhi.mp3"
         },
         {
             "id": "Song 6",
             "title": "Aarzoo By-Iqulipse Nova",
-            "url": "public/songs/Aarzoo.mp3"
+            "url": "/songs/Aarzoo.mp3"
         },
         {
             "id": "Song 7",
             "title": "Bewajah By-Hemish Reshammiya",
-            "url": "public/songs/Bewajah.mp3"
+            "url": "/songs/Bewajah.mp3"
         },
         {
             "id": "Song 8",
             "title": "Choo Lo By-The local train",
-            "url": "public/songs/Choo_Lo.mp3"
+            "url": "/songs/Choo_Lo.mp3"
         },
         {
             "id": "Song 9",
             "title": "Dil Besabar By-Iqlipse Nova",
-            "url": "public/songs/dil_besabar.mp3"
+            "url": "/songs/dil_besabar.mp3"
         },
         {
             "id": "Song 10",
             "title": "Dil Mere By-The local train",
-            "url": "public/songs/Dil_Mere.mp3"
+            "url": "/songs/Dil_Mere.mp3"
         },
         {
             "id": "Song 11",
             "title": "Haan ke Haan By-Monali Thakur",
-            "url": "public/songs/Haan_Ke_Haan.mp3"
+            "url": "/songs/Haan_Ke_Haan.mp3"
         },
         {
             "id": "Song 12",
             "title": "Haan Tu Hain By-kk",
-            "url": "public/songs/Haan_Tu_Hain.mp3"
+            "url": "/songs/Haan_Tu_Hain.mp3"
         },
         {
             "id": "Song 13",
             "title": "Husn By-Anuv jain",
-            "url": "public/songs/Husn.mp3"
+            "url": "/songs/Husn.mp3"
         },
         {
             "id": "Song 14",
             "title": "Jogi By-Yesser desai",
-            "url": "public/songs/Jogi.mp3"
+            "url": "/songs/Jogi.mp3"
         },
         {
             "id": "Song 15",
             "title": "Kashish By-Omkar singh",
-            "url": "public/songs/Kashish.mp3"
+            "url": "/songs/Kashish.mp3"
         },
         {
             "id": "Song 16",
             "title": "Kho Gaye By-Jubin Nautiyal",
-            "url": "public/songs/Kho_Gaye.mp3"
+            "url": "/songs/Kho_Gaye.mp3"
         },
         {
             "id": "Song 17",
             "title": "Lamhey By-Anubha Bajaj",
-            "url": "public/songs/lamhey.mp3"
+            "url": "/songs/lamhey.mp3"
         },
         {
             "id": "Song 18",
             "title": "Lehrein By- Anusha Mani",
-            "url": "public/songs/Lehrein.mp3"
+            "url": "/songs/Lehrein.mp3"
         },
         {
             "id": "Song 19",
             "title": "Mai Chala Jaunga  Fiddlecraft  By-Fiddlecraft",
-            "url": "public/songs/Mai_Chala_Jaunga_Fiddlecraft.mp3"
+            "url": "/songs/Mai_Chala_Jaunga_Fiddlecraft.mp3"
         },
         {
             "id": "Song 20",
             "title": "Main Koi Aisa Geet Gaoon By-Abijit Bhattacharya Alka Yagnik",
-            "url": "public/songs/Main_Koi_Aisa_Geet_Gaoon.mp3"
+            "url": "/songs/Main_Koi_Aisa_Geet_Gaoon.mp3"
         },
         {
             "id": "Song 21",
             "title": "Man Chala Teri Ore By-Vishal Sekhar",
-            "url": "public/songs/Man_Chala_Teri_Ore.mp3"
+            "url": "/songs/Man_Chala_Teri_Ore.mp3"
         },
         {
             "id": "Song 22",
             "title": "Raabta By-Arijit Singh",
-            "url": "public/songs/Raabta.mp3"
+            "url": "/songs/Raabta.mp3"
         },
         {
             "id": "Song 23",
             "title": "Rataan Lambiya By-Jubin Nautiyal",
-            "url": "public/songs/Raataan_Lambiya.mp3"
+            "url": "/songs/Raataan_Lambiya.mp3"
         },
         {
             "id": "Song 24",
             "title": "Ruaan By-Arijit Singh",
-            "url": "public/songs/Ruaan.mp3"
+            "url": "/songs/Ruaan.mp3"
         },
         {
             "id": "Song 25",
             "title": "Saanson Ki Zaroorat By-Kumar Sanu",
-            "url": "public/songs/Saanson_Ki_Zaroorat.mp3"
+            "url": "/songs/Saanson_Ki_Zaroorat.mp3"
         },
         {
             "id": "Song 26",
             "title": "Saathiya Tune Kya By-K.S. Chithra S.P. Balasubrahmanyam",
-            "url": "public/songs/Saathiya_Tune_Kya.mp3"
+            "url": "/songs/Saathiya_Tune_Kya.mp3"
         },
         {
             "id": "Song 27",
             "title": "Saiyaan Dil Main By-Shamshad Begum",
-            "url": "public/songs/Saiyaan_Dil.mp3"
+            "url": "/songs/Saiyaan_Dil.mp3"
         },
         {
             "id": "Song 28",
             "title": "Savera By-Iqulipse Nova",
-            "url": "public/songs/savera.mp3"
+            "url": "/songs/savera.mp3"
         },
         {
             "id":"Song 29",
             "title":"Suno Na Suno Na By-Abhijit Sawant",
-            "url":"public/songs/Suno_Na_Suno_Na.mp3"
+            "url":"/songs/Suno_Na_Suno_Na.mp3"
         },
         {
             "id":"Song 30",
             "title":"Tera Fitoor By-Arijit Singh",
-            "url":"public/songs/Tera_Fitoor.mp3"
+            "url":"/songs/Tera_Fitoor.mp3"
         },
         {
             "id":"Song 31",
             "title":"Tera Hone Laga Hoon By-Atif Aslam",
-            "url":"public/songs/Tera_Hone_Laga_Hoon.mp3"
+            "url":"/songs/Tera_Hone_Laga_Hoon.mp3"
         },
         {
             "id":"Song 32",
             "title":"Tu Hi Meri Shab By-KK",
-            "url":"public/songs/Tu_Hi_Meri_Shab.mp3"
+            "url":"/songs/Tu_Hi_Meri_Shab.mp3"
         },
         {
             "id":"Song 33",
             "title":"Tum_itnajo By-Jagjit Singh",
-            "url":"public/songs/Tum_ItnaJo.mp3"
+            "url":"/songs/Tum_ItnaJo.mp3"
         },
         {
             "id":"Song 34",
             "title":"Tum Todo Na (Female Version) By-Bela Shende",
-            "url":"public/songs/Tum_Todo_Na_(Female Version).mp3"
+            "url":"/songs/Tum_Todo_Na_(Female Version).mp3"
         }
         
     ]
 }
+
 
