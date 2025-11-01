@@ -17,7 +17,7 @@
         },
         {
             "id": "Song 4",
-            "title": "Aaoge Tum Kabhi By-The local train",
+            "title": "Aaoge jab By-The local train",
             "url": "/songs/Aaoge_Jab.mp3"
         },
         {
@@ -167,11 +167,17 @@
         },
         {
             "id":"Song 34",
-            "title":"Tum Todo Na (Female Version) By-Bela Shende",
+            "title":"Tum Todo Na (Female Version) By-Bela_Shende",
             "url":"/songs/Tum_Todo_Na_(Female Version).mp3"
+        },
+        {
+            "id":"Song 35",
+            "title":"Dil ko karaar  By-Yesser_desai",
+            "url":"/songs/Dil_Ko_Karaar.mp3"
         }
         
     ]
 }
+
 
 
